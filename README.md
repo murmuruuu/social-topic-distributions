@@ -58,24 +58,15 @@ Remarks:
 │   ├── SocialTopicDistributions.pdf
 │   └── SocialTopicDistributions.zip
 ├── notebooks
-│   ├── Articles_preprocessing.ipynb
-│   ├── Comments_preprocessing.ipynb
 │   └── SocialTopicDistributions.ipynb
 ├── Presentations
 │   ├── Final Presentation.pdf
-│   ├── Final Presentation.pptx
 │   ├── Presentation_1.pdf
-│   ├── Presentation_1.pptx
 │   ├── Presentation_2.pdf
-│   ├── Presentation_2.pptx
 │   ├── Presentation_3.pdf
-│   ├── Presentation_3.pptx
 │   ├── Presentation_4.pdf
-│   ├── Presentation_4.pptx
 │   ├── Presentation_5.pdf
-│   ├── Presentation_5.pptx
 │   ├── Presentation_6.pdf
-│   └── Presentation_6.pptx
 ├── README.md
 └── social-topic-distributions
     ├── article_clusters
